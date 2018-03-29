@@ -41,5 +41,6 @@
     "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS",
     "release": "./node_modules/.bin/generate-release"
   },
+  "main": "dist/ngHandsontable.js",
   "license": "MIT"
 }
