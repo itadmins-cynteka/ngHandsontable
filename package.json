@@ -13,7 +13,7 @@
   "version": "0.13.0",
   "dependencies": {
     "angular": "^1.5.0",
-    "handsontable": "git+https://github.com/sttimort/handsontable.git"
+    "handsontable": "git+https://github.com/itadmins-cynteka/handsontable"
   },
   "devDependencies": {
     "angular": "^1.5.0",
