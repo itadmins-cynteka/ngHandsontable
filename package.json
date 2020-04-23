@@ -13,7 +13,7 @@
   "version": "0.13.0",
   "dependencies": {
     "angular": "^1.5.0",
-    "handsontable": "^0.28.0"
+    "handsontable": "git+https://github.com/sttimort/handsontable.git"
   },
   "devDependencies": {
     "angular": "^1.5.0",
@@ -41,5 +41,6 @@
     "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS",
     "release": "./node_modules/.bin/generate-release"
   },
+  "main": "dist/ngHandsontable.js",
   "license": "MIT"
 }
